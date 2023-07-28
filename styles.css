@@ -1,0 +1,26 @@
+* {
+    color: black;
+    background-color: white;
+    font-family: 'Poppins', sans-serif;
+    justify-content: center;
+    text-align: center;
+}
+
+/* FOOTER */
+footer {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    flex-direction: column;
+    font-size: 35px;
+    gap: 0.25em;
+}
+
+footer a {
+    margin: 0 10px;
+    text-decoration: none;
+}
+
+footer p {
+    font-size: 15px;
+}
