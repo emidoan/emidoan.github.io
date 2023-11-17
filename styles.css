@@ -91,11 +91,14 @@ nav {
 #world {
     font-family: 'Playfair Display', serif;
     font-style: italic;
+    font-size: 50px;
+    background: none;
     padding-left: 25px;
 }
 
 #cherry-blossom {
     height: 25px;
+    background: none;
 }
 
 /* ABOUT */
